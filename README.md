@@ -1,10 +1,9 @@
-# Media Player Exercise
-
+# Sample Image
 ![Screenshot of Completed Exercise](./images/sample.png)
 
 ### Getting started
 
-You can use `npm` to install the dependencies and run the basic React project. Feel free to add any additional libraries
+You can use `npm` to install the dependencies and run the basic React project. Feel free to add any additional libraries 
 or frameworks you need.
 
 ```bash
@@ -15,7 +14,7 @@ npm run dev
 ### Project Info
 
 This is a working media player that can play through a playlist of audio files (included), display info on the
-currently playing track and supporting basic functionality like play/pause, next track, etc.
+currently playing track and supporting basic functionality like play/pause, next track, etc. 
 
 ### Playlist data
 
